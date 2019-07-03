@@ -5,7 +5,7 @@ The docs repo is for the product content for IBM Bluemix that is authored in Mar
 
 Each directory in the docs repo must synch with the overall architecture of the Bluemix doc app.
 
-##How to suggest changes or updates to Bluemix documentation
+## How to suggest changes or updates to Bluemix documentation
 
 All you need is a GitHub ID, and you can suggest edits and changes to Bluemix docs. A Bluemix team member will review any pull requests, and merge all or parts of your suggested changes as quickly as possible.
 To make your changes:
@@ -165,7 +165,7 @@ The Markdown parser will output HTML5 that looks like this:
 
 ```
   
-####Attributes in DITA vs Markdown  
+#### Attributes in DITA vs Markdown  
 In DITA, attributes are used to add metadata to elements. For example, you might add a `product`, `props`, or `otherprops` attribute on a phrase or paragraph element in order to associate a value with that phrase or paragraph. These values allow for filtering either during build or runtime. DITA transforms to HTML5 also apply Class attributes to HTML5 elements, and these values are used by the .CSS stylesheets at runtime to control the display.
 
 Example of DITA attributes (from `using_rabbitmq_service.dita`):
